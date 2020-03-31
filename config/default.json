@@ -1,0 +1,9 @@
+{
+  "retentionDays": 30,
+  "auth0": {
+    "clientId": "",
+    "clientSecret": "",
+    "audience": "https://[TENANT].eu.auth0.com/api/v2/a",
+    "domain": "[TENANT].eu.auth0.com"
+  }
+}

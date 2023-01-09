@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "auth0": "^2.24.0",
+    "auth0": "^3.0.1",
     "config": "^3.2.5"
   },
   "devDependencies": {
